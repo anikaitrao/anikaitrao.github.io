@@ -1,2 +1,2 @@
-# anikaitrao.github.io
-website
+# Anikait Rao's website
+
